@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Guilherme Henrique Monteiro Cal
 * Ian Merlo Corrêa
 *  Warlen alves
-* Jéssica Silva Santos 4
+* Jéssica Silva Santos 
 
 ## Orientador
 
