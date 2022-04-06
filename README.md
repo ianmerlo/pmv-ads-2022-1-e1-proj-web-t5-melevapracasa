@@ -1,6 +1,6 @@
-# TÍTULO DO PROJETO
+# Me Leva Pra Casa
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
 `DISCIPLINA`
 
