@@ -14,6 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Ian Merlo Corrêa
 *  Warlen alves
 * Jéssica Silva Santos 
+* Elizângela Oliveira
 
 ## Orientador
 
