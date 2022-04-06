@@ -32,12 +32,12 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Segundo a Organização não governamental Ampara, os índices de abandono e recolhimento de animais aumentaram em média 61% entre julho de 2020 e junho de 2021. Esses dados podem ser ainda maiores em outros abrigos chegando a 300%, conforme relata a gerente de projetos da ONG, Rosângela Gebara. 
+ 
+A pandemia intensificou diversos fenômenos, a parte econômica e emocional foram as mais afetadas, as pessoas tiveram dificuldade de se manter financeiramente e por consequência também tiveram dificuldade de manter seus animais. Com essa perspectiva, o trabalho visa desenvolver uma ferramenta que facilite a interação entre as ONGs de adoção e o público em geral que queira divulgar algum animal que esteja perdido e passando por dificuldade e abandono.
+ 
+Além de proporcionar aos graduandos uma maior conscientização quanto a questão social de animais em situação de abandono, proporcionará o embasamento técnico para o desenvolvimento da ferramenta de Aplicação Web Front-End.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
