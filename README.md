@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Guilherme Henrique Monteiro Cal
 * Ian Merlo Corrêa
-* Nome completo do aluno 3
+*  Warlen alves
 * Jéssica Silva Santos 4
 
 ## Orientador
